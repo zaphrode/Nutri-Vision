@@ -1,4 +1,4 @@
-# 2006-SCMA-SEITRAMS Nutri-Vision
+# Nutri-Vision
 ## About 
 This is a project for NTU SC2006 Software Engineering Module. Our task was to create innovative applications that exploit publicly available goverment data to change the ways we live, learn and work. All teams were required to use government APIs and/or other publicly available data APIs for real word data.
 
